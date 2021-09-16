@@ -1,4 +1,4 @@
-# Circles RUB | FAQ
+﻿# Circles RBU | FAQ
 
 ## 1-Comprendre les Circles - Que se passe-t-il?
 
@@ -80,7 +80,7 @@ La fiscalité est relative à votre juridiction et doit être traitée en consé
 
 ## 2. Réseau de confiance - Que signifie la “Confiance“ dans Circles?
 
-### 2.1. A Qui  je peux payer avec Circles?
+### 2.1. A Qui  je peux payer avec Circles? 
 
 Vous pouvez payer des personnes avec qui vous avez un lien de confiance. Ce sont les personnes qui vous font confiance, ou les personnes avec qui vous avez une personne de confiance commune.,
 
@@ -149,7 +149,7 @@ Après avoir créé un nouveau portefeuille, vous avez besoin de trois contacts 
 
 Nous organisons régulièrement des rencontres à Berlin pendant notre phase de test, où vous pouvez venir rencontrer l'équipe et vous connecter avec d'autres utilisateurs de Circles en personne.,
 
-Une fois que 3 personnes ont fait confiance à votre profil, l'application déploiera automatiquement deux contrats intelligents pour que vous puissiez utiliser Circles: votre coffre-fort et votre propre jeton Circles. Vous recevrez 50 Circles comme paiement initial et continuerez à recevoir un RUB régulier.
+Une fois que 3 personnes ont fait confiance à votre profil, l'application déploiera automatiquement deux contrats intelligents pour que vous puissiez utiliser Circles: votre coffre-fort et votre propre jeton Circles. Vous recevrez 50 Circles comme paiement initial et continuerez à recevoir un RBU régulier.
 
 
 ### 3.3. Que se passe-t-il si je ne connais personne de confiance dans le système Circles, Qui peut me vérifier?

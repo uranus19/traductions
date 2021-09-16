@@ -4,7 +4,7 @@ title: Qu'est ce que c'est Circles?
 slug: /users/what-is-circles
 ---
 
-Vous vous demandez peut-être : que signifie RBU dans un système propulsé par les gens ?
+####  Vous vous demandez peut-être : que signifie RBU dans un système propulsé par les gens ?
 
 Avec Circles, les gens revendiquent le droit à un revenu de base en créant de la monnaie. Comprenant la monnaie comme un ensemble de promesses que nous nous faisons les uns aux autres, Circles donne aux gens le pouvoir égal et inconditionnel de faire des promesses aux autres et de réclamer des ressources. Dans les Circles, les gens exercent le pouvoir de créer de la monnaie, démocratisant ainsi sa création.
 
@@ -22,7 +22,7 @@ La conception monétaire des Circles, en revanche, ressemble à une jungle. Dans
 
 Lorsqu'une nouvelle personne se joint à Circles, elle exerce le pouvoir d'émettre des crédits à d'autres. Seuls, ceux-ci sont appelés monnaies personnelles, mais ensemble, ils forment un réseau de monnaies mutuelles. Comme les monnaies personnelles ne commencent à circuler que lorsque quelqu'un d'autre leur fait confiance, la structure de ce réseau dépend de l'écologie de la confiance que les gens ont les uns envers les autres. Les courants de confiance sont comme différentes rivières qui se frayent un chemin depuis la montagne, à travers la jungle et jusqu'à l'océan. Plus la confiance existe dans une communauté, plus la richesse coulera et circulera facilement entre elles, créant des écologies où différentes relations sociales peuvent prospérer.
 
-## Pourquoi faire Confiance ?
+## Pourquoi faire Confiance ?
 
 Vous vous demandez peut-être : pourquoi la confiance est-elle nécessaire ? Vous devez comprendre ce qu'est la confiance si vous voulez utiliser correctement Circles. La confiance a un double sens dans le système des Circles : social et technique.
 

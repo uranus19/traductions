@@ -1,12 +1,12 @@
 ---
 id: what-is-ubi
-title: Qu'est-ce qu'e c’est RUB?
+title: Qu'est-ce qu'e c’est RBU?
 slug: /users/what-is-ubi
 ---
 
-Pour comprendre ce qu'est Circles, il faut d'abord se demander : Qu'est-ce que c'est le Revenu Universel de Base (RUB) ?
+Pour comprendre ce qu'est Circles, il faut d'abord se demander : Qu'est-ce que c'est le Revenu de Base Universel(RBU) ?
 
-Selon le Basic Income Earth Network (BIEN), le revenu de base est un paiement en argent périodique versé inconditionnellement à tous sur une base individuelle, sans condition de ressources ni condition de travail. RUB a ainsi 5 caractéristiques :
+Selon le Basic Income Earth Network (BIEN), le revenu de base est un paiement en argent périodique versé inconditionnellement à tous sur une base individuelle, sans condition de ressources ni condition de travail. RBU a ainsi 5 caractéristiques :
 
 1. Périodique-Il est versé à intervalles réguliers (par exemple tous les mois), et non sous la forme d'une subvention unique.
 2. Paiement en espèces-Il est payé dans un moyen d'échange approprié, permettant à ceux qui le reçoivent de décider sur quoi ils le dépensent. Elle n'est donc payée ni en nature (comme la nourriture ou les services) ni en bons/tickets dédiés à un usage spécifique.
